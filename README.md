@@ -2,7 +2,7 @@
 
 Please look at the following repos for some examples of code I've written. Note that I haven't been actively focused on creating demos for a while, as, when I get free time, there are too many books I need to read or guitar to be played.
 
-| repo                                                                              | focus                                 | description                                                                        |
+| github url                                                                              | focus                                 | description                                                                        |
 | --------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------- |
 | [chat app](https://github.com/joelfeodiyoup/chat_demo)                            | web sockets, nextjs, react, expressjs | basic 'chat' app                                                                   |
 | [news site](https://github.com/joelfeodiyoup/news_site_demo)                      | nextjs, nestjs                        | news site with pagination and named urls                                           |
